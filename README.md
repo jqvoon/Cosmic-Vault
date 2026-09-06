@@ -2,6 +2,16 @@
 
 CosmicVault is a next-generation cloud file storage application that replaces the traditional folder hierarchy with an intelligent, tag-driven, and visually rich interface. Instead of manually organising files into folders, CosmicVault uses metadata and file categorisation to help users store and retrieve files organically without the cognitive overhead of managing a folder structure.
 
+## Team & Contributions
+
+CosmicVault was developed as a group project by:
+
+- **Jun Quan Voon** — Application development and security
+- **Saw Wei Lin** — UI design
+- **Noah Lee Supartino** — AI integration
+
+The project was a collaborative effort, with all team members contributing to its development and completion.
+
 ## Video Demonstration
 
 Please refer to our demonstration video at https://www.youtube.com/watch?v=1D5DLh1l24Y. The Ollama endpoint used in the video may not be available during grading, so follow the "Local LLM Server (Development)" section to run the required models locally.
