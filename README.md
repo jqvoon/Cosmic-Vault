@@ -6,7 +6,7 @@ CosmicVault is a next-generation cloud file storage application that replaces th
 
 CosmicVault was developed as a group project by:
 
-- **Jun Quan Voon** — Application development and security
+- **Voon Jun Quan** — Application development and security
 - **Saw Wei Lin** — UI design
 - **Noah Lee Supartino** — AI integration
 
