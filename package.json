@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "ci:all": "npm ci && npm ci --prefix frontend && npm ci --prefix backend",
+    "install:all": "npm i && npm i --prefix frontend && npm i --prefix backend",
+    "dev": "concurrently \"node --watch backend/server.js\" \"npm run dev --prefix frontend\"",
+    "build": "npm run build --prefix frontend",
+    "start": "NODE_ENV=production node backend/server.js"
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  }
+}

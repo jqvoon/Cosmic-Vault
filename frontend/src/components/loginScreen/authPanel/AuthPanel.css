@@ -1,0 +1,48 @@
+.auth-description {
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.45);
+  margin-bottom: 28px;
+  text-align: center;
+  line-height: 1.6;
+  animation: fadeUp 0.6s 0.2s ease both;
+}
+
+.auth-divider-container {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin: 0 0 22px;
+  animation: fadeUp 0.6s 0.4s ease both;
+}
+
+.auth-divider-line {
+  flex: 1;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.07);
+}
+
+.auth-divider-text {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.2);
+  letter-spacing: 0.1em;
+}
+
+.auth-buttons-container {
+  display: flex;
+  gap: 10px;
+  animation: fadeUp 0.6s 0.5s ease both;
+}
+
+.auth-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 22px;
+  animation: fadeUp 0.6s 0.6s ease both;
+}
+
+.auth-footer-text {
+  font-size: 10px;
+  color: rgba(255, 255, 255, 0.18);
+  letter-spacing: 0.06em;
+}
